@@ -12,7 +12,7 @@
 #character{
     width: 20px;
     height: 20px;
-    background-color: red;
+    background-color: Green;
     border-radius: 50%;
     position: relative;
     top: 400px;
@@ -30,7 +30,7 @@
 .hole{
     width: 40px;
     height: 20px;
-    background-color: white;
+    background-color: blue;
     position: relative;
     top: 100px;
     margin-top: -20px;
